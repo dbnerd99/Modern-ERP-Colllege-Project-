@@ -25,5 +25,17 @@ This project automates manual tasks like **Excel-based CO/PO (Course Outcomes / 
 
 ---
 
-ies
-└── README.md # Project documentation
+### 1 Clone the repository
+```bash
+git clone https://github.com/your-username/Modern-ERP-College-Project.git
+cd Modern-ERP-College-Project
+```
+
+### 2 Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3 Run flask server
+```bash
+python app.py
